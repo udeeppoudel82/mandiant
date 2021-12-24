@@ -1,3 +1,5 @@
+**Usage**
+
 **#Build Docker file**
 
 sudo docker build -t exercise .
